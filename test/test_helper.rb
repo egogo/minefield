@@ -1,0 +1,7 @@
+require 'minitest/autorun'
+require 'mocha'
+require 'mocha/mini_test'
+require 'mine'
+require 'explosion_simulator'
+require 'minesweeper'
+require 'result'
